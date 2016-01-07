@@ -1,0 +1,28 @@
+name: ursa
+favicon: null
+layout_spectrum: 0.39997047558426857
+typography_spectrum: 0.5635678651742637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9128634126391262
+  lightness: 0.7941015087999403
+  saturation: 0.8054609755054116
+  rhythmicContrast: 0.21729865903034806
+purpose: []
