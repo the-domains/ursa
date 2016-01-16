@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 00:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 00:37:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I'm a doer. ]]></title>
@@ -15,6 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b58cd62-ab51-4689-aa02-4d6aaeabefd9.JPG">]]></description>
+            <link>https://thegrid.ai/ursa/e0cf82f3-a6c4-4eed-b98c-9407ce9f16af/index.html</link>
+            <guid isPermaLink="false">e0cf82f3-a6c4-4eed-b98c-9407ce9f16af</guid>
+            <pubDate>Sat, 16 Jan 2016 00:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>mailto:bettybair@gmail.com</p>]]></description>
             <link>https://thegrid.ai/ursa/53a0f3af-b342-478f-882c-d56f82cd376a/index.html</link>
             <guid isPermaLink="false">53a0f3af-b342-478f-882c-d56f82cd376a</guid>
             <pubDate>Sat, 16 Jan 2016 00:33:52 GMT</pubDate>
