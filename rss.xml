@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 01:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 03:23:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I'm a doer. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ursa/im-a-doer/index.html</link>
             <guid isPermaLink="false">3fad0ba3-a17e-4f72-b963-fe9a98f685ac</guid>
             <pubDate>Sat, 16 Jan 2016 01:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm a doer. ]]></title>
+            <description><![CDATA[<h1>I'm a doer. </h1>]]></description>
+            <link>https://thegrid.ai/ursa/im-a-doer/index.html</link>
+            <guid isPermaLink="false">104c6a3e-39eb-475d-a163-0493fc789f3c</guid>
+            <pubDate>Sat, 16 Jan 2016 03:23:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
