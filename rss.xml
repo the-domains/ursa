@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 02:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 02:44:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/ursa/608fe8f2-2dc8-426d-8f6a-b78376340c14/index.html</link>
             <guid isPermaLink="false">608fe8f2-2dc8-426d-8f6a-b78376340c14</guid>
             <pubDate>Tue, 19 Jan 2016 01:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b7e6b9-af3e-4702-859b-9e00947300f1.jpg">]]></description>
+            <link>https://thegrid.ai/ursa/7695732b-9f04-4b25-a171-93a4460001a7/index.html</link>
+            <guid isPermaLink="false">7695732b-9f04-4b25-a171-93a4460001a7</guid>
+            <pubDate>Tue, 19 Jan 2016 02:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c88c14e-cc9b-466c-a864-2d564f7b96a8.jpg">]]></description>
+            <link>https://thegrid.ai/ursa/a5a1fed2-9ada-4217-a776-56bc3671d415/index.html</link>
+            <guid isPermaLink="false">a5a1fed2-9ada-4217-a776-56bc3671d415</guid>
+            <pubDate>Tue, 19 Jan 2016 02:37:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/ursa/07471d12-d2ff-4dfa-acfa-fc5d780b96e8/index.html</link>
             <guid isPermaLink="false">07471d12-d2ff-4dfa-acfa-fc5d780b96e8</guid>
             <pubDate>Tue, 19 Jan 2016 02:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@that_betty</p>]]></description>
-            <link>https://thegrid.ai/ursa/b0729729-d6aa-4e44-8f43-b6cf6dd57240/index.html</link>
-            <guid isPermaLink="false">b0729729-d6aa-4e44-8f43-b6cf6dd57240</guid>
-            <pubDate>Tue, 19 Jan 2016 01:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/ursa/8c0378d4-3fe9-45ad-ae62-6a83db7a06b0/index.html</link>
             <guid isPermaLink="false">8c0378d4-3fe9-45ad-ae62-6a83db7a06b0</guid>
             <pubDate>Sat, 16 Jan 2016 01:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b58cd62-ab51-4689-aa02-4d6aaeabefd9.JPG">]]></description>
-            <link>https://thegrid.ai/ursa/e0cf82f3-a6c4-4eed-b98c-9407ce9f16af/index.html</link>
-            <guid isPermaLink="false">e0cf82f3-a6c4-4eed-b98c-9407ce9f16af</guid>
-            <pubDate>Sat, 16 Jan 2016 00:36:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
