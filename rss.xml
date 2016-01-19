@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 22:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 22:18:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +47,6 @@
             <link>https://thegrid.ai/ursa/5de269d5-5ac5-4d22-9236-66d141a4b798/index.html</link>
             <guid isPermaLink="false">5de269d5-5ac5-4d22-9236-66d141a4b798</guid>
             <pubDate>Sat, 16 Jan 2016 01:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/772a2423-33a1-40d5-becd-4ea7a2aaf9b2.JPG">]]></description>
-            <link>https://thegrid.ai/ursa/8c0378d4-3fe9-45ad-ae62-6a83db7a06b0/index.html</link>
-            <guid isPermaLink="false">8c0378d4-3fe9-45ad-ae62-6a83db7a06b0</guid>
-            <pubDate>Sat, 16 Jan 2016 01:43:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
