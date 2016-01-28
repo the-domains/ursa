@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 22:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 07:01:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ursa/608fe8f2-2dc8-426d-8f6a-b78376340c14/index.html</link>
             <guid isPermaLink="false">608fe8f2-2dc8-426d-8f6a-b78376340c14</guid>
             <pubDate>Tue, 19 Jan 2016 01:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="blob:https%3A//www.youtube.com/ab8870c0-c073-4c87-974e-a51d3e05bd71"></video>]]></description>
+            <link>https://thegrid.ai/ursa/84922fde-3b61-48e2-a2e1-1ef39fab290c/index.html</link>
+            <guid isPermaLink="false">84922fde-3b61-48e2-a2e1-1ef39fab290c</guid>
+            <pubDate>Thu, 28 Jan 2016 07:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bacon, WA 98851]]></title>
