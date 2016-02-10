@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 01:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 01:31:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -32,13 +32,6 @@
             <description><![CDATA[<article><h1>Sign in - Google Accounts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d71a6747866085b087481b123fb7d31cf10b281.png"></article>]]></description>
             <link>https://photos.google.com/photo/AF1QipMk_OFwhfTVBPXYG0kSnZ-1QK74gSiCQS0VRmBB</link>
             <guid isPermaLink="false">7ce54ba3-8235-4162-87fb-8c0bdebcf369</guid>
-            <pubDate>Wed, 10 Feb 2016 00:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sign in - Google Accounts]]></title>
-            <description><![CDATA[<article><h1>Sign in - Google Accounts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d71a6747866085b087481b123fb7d31cf10b281.png"></article>]]></description>
-            <link>https://photos.google.com/photo/AF1QipPZlptidKiAUT4wZD5Hl_Nd_BTMREV2z-vUB5wT</link>
-            <guid isPermaLink="false">22a8b9b9-29af-41ef-9598-32f3a1fa3a37</guid>
             <pubDate>Wed, 10 Feb 2016 00:42:53 GMT</pubDate>
         </item>
     </channel>
