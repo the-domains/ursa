@@ -4,7 +4,7 @@
         <description><![CDATA[ursa::things get done]]></description>
         <link>https://thegrid.ai/ursa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 00:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 00:44:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ursa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -16,6 +16,13 @@
         <item>
             <title><![CDATA[Sign in - Google Accounts]]></title>
             <description><![CDATA[<article><h1>Sign in - Google Accounts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49554d28b39ee030db5b2a3a6dacc8cf9fa5efc7.png"></article>]]></description>
+            <link>https://photos.google.com/photo/AF1QipP6IHg2GdVTiR0VGP0yvmshFQHFVHEfUWc57OZd</link>
+            <guid isPermaLink="false">39051a12-66da-421e-b7f2-f3fe963ccae4</guid>
+            <pubDate>Wed, 10 Feb 2016 00:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sign in - Google Accounts]]></title>
+            <description><![CDATA[<article><h1>Sign in - Google Accounts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d71a6747866085b087481b123fb7d31cf10b281.png"></article>]]></description>
             <link>https://photos.google.com/photo/AF1QipMk_OFwhfTVBPXYG0kSnZ-1QK74gSiCQS0VRmBB</link>
             <guid isPermaLink="false">7ce54ba3-8235-4162-87fb-8c0bdebcf369</guid>
             <pubDate>Wed, 10 Feb 2016 00:42:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.google.com/maps/dir/2225+Southeast+52nd+Avenue,+Portland,+OR+97215-3900,+USA/Bacon,+WA+98851/@46.5053003,-122.2876457,8z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x5495a05f866f8809:0xb38720aac7e77bd6!2m2!1d-122.6092319!2d45.5069655!1m5!1m1!1s0x549bffa3701844f5:0x6d9a9bd5c1767936!2m2!1d-119.3303056!2d47.5006992</link>
             <guid isPermaLink="false">e422bb91-69e5-440d-bb2b-a42e8407d530</guid>
             <pubDate>Wed, 20 Jan 2016 22:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doobie Brothers ~ What A fool Believes (1979)]]></title>
-            <description><![CDATA[<article><h1>Doobie Brothers ~ What A fool Believes (1979)</h1><p>What a Fool Believes" is a song written by Michael McDonald and Kenny Loggins. The best-known version was recorded by The Doobie Brothers (with McDonald singing lead vocals) for their 1978 album Minute by Minute.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/685de1a01c32907be34dd55e278879bafe3873a1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=dJe1iUuAW4M&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">b25155fe-e9d3-49da-a150-3f579892efe3</guid>
-            <pubDate>Tue, 19 Jan 2016 22:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
