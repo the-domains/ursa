@@ -1,21 +1,4 @@
-name: ursa
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.32391
-style: the-composer
-title: 'ursa::things get done'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5522328743245453
 color:
   brandColors:
     - '#030208'
@@ -27,4 +10,29 @@ color:
   lightness: 0.6875
   saturation: 0.8125
   rhythmicContrast: 0.5
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7328195001464337
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ursa
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: shop
+    url: 'https://poshmark.com/closet/woolblanket'
+    type: external
+favicon: null
+title: ''
+description: ''
+purpose:
+  - type: external
+    url: poshmark.com/closet/woolblanket
+    label: S|H|O|P
